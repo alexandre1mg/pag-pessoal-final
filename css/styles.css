@@ -1,0 +1,102 @@
+/* Gerais */
+body {
+    font-family: sans-serif;
+
+}
+
+.row {
+    margin: 0;
+}
+
+.container {
+    padding: 70px 0;
+}
+
+p,
+li {
+    color: beige;
+    font-size: 14px;
+}
+
+/* Barra de Navegação */
+
+header,
+.navbar {
+    background-color: rgb(59, 133, 182);
+
+}
+
+#nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.navbar-brand {
+    padding: 0;
+    color: rgb(255, 255, 255);
+}
+
+.navbar-brand:hover {
+    color: rgb(255, 255, 255);
+}
+
+#navbar-links a {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem .8rem;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+#mainS .carousel-inner,
+#mainS .carousel-item {
+    height: 60vh;
+}
+
+.container {
+    padding: 5%;
+    margin: 2%;
+}
+
+body {
+    background-color: rgb(68, 68, 68);
+}
+
+h2 {
+    color: aliceblue;
+
+}
+
+h4 {
+    color: aliceblue;
+    font-style: italic;
+}
+
+p {
+    font-size: x-large;
+    font-style: italic;
+    color: aliceblue;
+}
+
+
+.link {
+    color: rgb(80, 26, 230);
+    text-decoration: none;
+}
+
+#topLink {
+    text-decoration: none;
+}
